@@ -86,7 +86,7 @@ input {
   overflow: hidden;
 }
 .desc {
-  height: 130px;
+  height: 450px;
   padding: 10px;
 }
 
@@ -99,13 +99,13 @@ input {
 }
 
 .desc h3 {
-  color: #6c757d;
+  color: #0868bb;
   font-size: 1em;
   padding: 10px 0 10px 0;
 }
 
 .desc p {
-  color: #6c757d;
+  color: #384755;
 }
 
 img {

@@ -11,7 +11,10 @@ return(
                         img={book.volumeInfo.imageLinks.thumbnail}
                         title={book.volumeInfo.title}
                         author={book.volumeInfo.authors}
+                        Link={book.volumeInfo.canonicalVolumeLink}
                         published={book.volumeInfo.publishedDate}
+                        description={book.volumeInfo.description}
+                        
                         />
                })     
             }
