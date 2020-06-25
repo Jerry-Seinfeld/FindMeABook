@@ -10,6 +10,5 @@ Npm i
 
 [Website]()
 
-[GitHub](https://github.com/Jerry-Seinfeld/FindMeABook)
 
 ![Image](screenshot.png)
